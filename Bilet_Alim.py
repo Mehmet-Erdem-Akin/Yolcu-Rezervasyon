@@ -119,7 +119,7 @@ def yolcubilgilerivelog():
     if len(TC) != 11:
         os.system("cls")
         print("TC Kimlik Numarası Hatalı")
-        TC = input("Yolcu TC Kimlik Numarası: ")
+        
 
     else:
         pass
